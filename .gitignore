@@ -1,0 +1,26 @@
+# Compiled Java output
+out/
+bin/
+*.class
+
+# IDE metadata
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Runtime and temporary files
+*.log
+*.tmp
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example

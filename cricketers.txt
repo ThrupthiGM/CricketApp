@@ -1,0 +1,11 @@
+101|Virat Kohli|India|37|Batsman|292|13848|254|58.67|5|45.0
+102|Rohit Sharma|India|39|Batsman|499|19400|264|48.96|47|36.0
+103|Jasprit Bumrah|India|32|Bowler|196|1000|43|15.0|450|22.5
+104|Joe Root|England|35|Batsman|350|13000|262|50.2|20|50.0
+105|Steve Smith|Australia|37|Batsman|330|10500|239|49.5|28|60.0
+106|Kane Williamson|New Zealand|36|Batsman|320|9500|251|48.75|37|42.0
+107|Ravindra Jadeja|India|37|All Rounder|300|6500|175|35.5|550|29.0
+108|Ben Stokes|England|35|All Rounder|260|7000|258|38.5|300|32.0
+109|Babar Azam|Pakistan|31|Batsman|280|12000|196|52.4|12|55.0
+110|Pat Cummins|Australia|33|Bowler|250|2500|95|20.5|500|25.4
+120|jaya|India|20|bowler|20|300|200|20.0|63|23.0
